@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+models_cache/
+models_weights/
