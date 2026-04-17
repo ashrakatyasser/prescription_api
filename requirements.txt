@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python-headless
+ultralytics
+transformers
+torch
+rapidfuzz
+sentence-transformers
+pandas
+pillow
+scikit-image
+scipy
